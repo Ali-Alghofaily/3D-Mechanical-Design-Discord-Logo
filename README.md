@@ -32,4 +32,4 @@ This project fulfills **Mechanical Task 2** for the training program. It feature
 
 ## 🚀 Onshape Model Link
 You can view and inspect the full 3D CAD model directly on Onshape:
-👉 **[View Onshape CAD Design](https://cad.onshape.com)** *(Replace with your exact Onshape share link)*
+👉 **[View Onshape CAD Design](https://cad.onshape.com/documents/e48c9350d0add73fcd21a54d/w/a84d4545281f96cb12490d84/e/f863581908af32ebed82a7d8?renderMode=0&uiState=6a5f1ce3c002392c817c9d4e)
